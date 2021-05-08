@@ -1,5 +1,11 @@
 # Learn-TO-GIT
 
+Podes encontrar una guia similar a esta, en la cual la misma esta basada, en español, aquí:
+
+https://github.com/twilio-labs/open-pixel-art/blob/master/docs/es/CONTRIBUTING.md
+
+Por favor, lee ambas guias, e intenta seguir los pasos de la presente, con las explicaciones mas detalladas del link. Si bien son similares, no todos los pasos deben ser hechos ni son necesarios.
+
 ## Table of Contents
 
 - [Learn-To-GIT](#learn-to-git)
@@ -17,8 +23,6 @@
 This is a community repo to teach and learn how to use Git from the very beginning.
 You can found the project in https://learn-to-git.netlify.app/
 
-Podes encontrar una guia similar a esta, en la cual la misma esta basada, en español, aquí:
-https://github.com/twilio-labs/open-pixel-art/blob/master/docs/es/CONTRIBUTING.md
 
 
 ## Getting Started 
@@ -43,11 +47,9 @@ If you got good links to share to help us to teach the Git basis, please feel fr
 ### Adding your contribution
 
 The first objective of the project it is that you can do your first PR (Pull Request).
-
 To achieve this, many task needs to be performed correctly. But, not the first time necessarily.
 
 Contribute to a project that isn't yours can be overwhelming the first time, and that is fine, this project is made to help.
-
 So keep reading, and try to Add your name to the list! If something goes wrong, you can ask for help.
 
 Made your first PR involves that you:
