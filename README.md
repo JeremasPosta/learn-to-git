@@ -1,4 +1,4 @@
-# Learn-TO-GIT
+# Learn-To-GIT
 
 Podes encontrar una guia similar a esta, en la cual la misma esta basada, en español, aquí:
 
