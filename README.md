@@ -72,6 +72,29 @@ You should `edit` this file, adding your `name` and `link` (May be your GitHub P
 `Push` your commit to your GitHub fork. (This upload your local changes into your copy of the project).
 
 
+To start contributing, follow the below guidelines: 
+
+**1.**  Fork [this](https://github.com/JeremasPosta/learn-to-git.git) repository.
+
+**2.**  Clone your forked copy of the project.
+
+     $ git clone https://github.com/<your_user_name>/learn-to-git.git
+
+     
+**3.** Checkout into a new branch 
+
+     $ git checkout -b <branch_name>
+
+**4.** Make your changes
+
+**5.** Add and commit your changes
+
+     $ git add . && git commit -m "<your_message>"
+     
+**6.** Push Code to Github under your branch 
+
+     $ git push origin <branch_name>   
+
 
 Well done! We almost finish!
 
@@ -93,6 +116,7 @@ If all goes Ok, you need only to wait that your changes be approved and your nam
 
 Now go to the streets and yell to the clouds that you just become a Git Jedi Master, an Open Source supporter and a better developer!
 
+
 ## Usage 
 
 Add notes about how to use the system.
@@ -101,3 +125,9 @@ Add notes about how to use the system.
 
 - @JeremasPosta (Idea and original work)
 - @GonzaCerv (Contributor)
+- @aditya28sarin (Contributor)
+- @Matiascba27 (Contributor)
+- @willi2500 (Contributor)
+- @dragondgold (Contributor)
+- @christianzamher (Contributor)
+- @Gnoq (Contributor)
