@@ -6,9 +6,17 @@ body {
   font-size: 1.3rem;
   padding: 30px;
 }
+a:link {
+  color: white;
+  font-weight: bold;
+}
+
+a:visited {
+  color: #c7782f;
+  font-weight: bold;
+}
 
 .collaborators a {
-    color: #f1f1f1;
     padding-bottom: 0.25em;
 }
 
